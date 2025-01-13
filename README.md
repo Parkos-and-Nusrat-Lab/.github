@@ -1,3 +1,5 @@
+![Alt text](images/welcome.jpg)
+
 # Welcome to the Parkos-Nusrat Group
 
 Our laboratories have closely collaborated for over two decades. Our group investigates mechanisms regulating the intestinal barrier during health and disease, with the particular focus on pathologic inflammatory states. We are interested in understanding the fundamental mechanisms controlling epithelial homeostasis, which includes maintenance of barrier function through cellular migration, proliferation and repair, and how these processes are impacted in disease.
@@ -52,7 +54,7 @@ Our laboratories have closely collaborated for over two decades. Our group inves
 </details>
 
 <details>
-<summary>Students</summary>
+<summary>Tech</summary>
   
   [Dylan Fink, BS](https://www.pathology.med.umich.edu/directory/dyfink)
   
