@@ -2,7 +2,7 @@
 
 # Welcome to the Parkos-Nusrat Group
 
-<img align="right" width="150" height="175" src="images/Axcolontl.jpg">
+<img align="right" width="150" height="175" src="images/Axcolontl.png">
 
 Our laboratories have closely collaborated for over two decades. Our group investigates mechanisms regulating the intestinal barrier during health and disease, with the particular focus on pathologic inflammatory states. We are interested in understanding the fundamental mechanisms controlling epithelial homeostasis, which includes maintenance of barrier function through cellular migration, proliferation and repair, and how these processes are impacted in disease.
 
