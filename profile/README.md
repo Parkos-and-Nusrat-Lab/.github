@@ -28,6 +28,8 @@ Our laboratories have closely collaborated for over two decades. Our group inves
   [Shuling Fan, PhD](https://www.pathology.med.umich.edu/directory/shulingf)
   
   [Arturo Raya-Sandino, PhD](https://www.pathology.med.umich.edu/faculty/jrayasan)
+
+  [Zach Wilson, PhD](https://www.pathology.med.umich.edu/faculty/wilsonza)
   
 </details>
 
@@ -41,8 +43,6 @@ Our laboratories have closely collaborated for over two decades. Our group inves
   [Sandhya Padmanabhan, PhD](https://www.pathology.med.umich.edu/directory/pasandhy)
   
   [Saranyaraajan Varadarajan, PhD](https://www.pathology.med.umich.edu/directory/varadars)
-  
-  [Zach Wilson, PhD](https://www.pathology.med.umich.edu/faculty/wilsonza)
 
   [Natasha Golovchenko, PhD](https://www.pathology.med.umich.edu/directory/nbgol)
   
