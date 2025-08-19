@@ -42,8 +42,6 @@ Our laboratories have closely collaborated for over two decades. Our group inves
   
   [Saranyaraajan Varadarajan, PhD](https://www.pathology.med.umich.edu/directory/varadars)
   
-  [Zach Wilson, PhD](https://www.pathology.med.umich.edu/faculty/wilsonza)
-
   [Natasha Golovchenko, PhD](https://www.pathology.med.umich.edu/directory/nbgol)
   
 </details>
