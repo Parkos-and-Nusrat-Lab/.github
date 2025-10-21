@@ -28,8 +28,6 @@ Our laboratories have closely collaborated for over two decades. Our group inves
   [Shuling Fan, PhD](https://www.pathology.med.umich.edu/directory/shulingf)
   
   [Arturo Raya-Sandino, PhD](https://www.pathology.med.umich.edu/faculty/jrayasan)
-
-  [Zach Wilson, PhD](https://www.pathology.med.umich.edu/faculty/wilsonza)
   
 </details>
 
