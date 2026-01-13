@@ -28,19 +28,19 @@ Our laboratories have closely collaborated for over two decades. Our group inves
   [Shuling Fan, PhD](https://www.pathology.med.umich.edu/directory/shulingf)
   
   [Arturo Raya-Sandino, PhD](https://www.pathology.med.umich.edu/faculty/jrayasan)
+
+  [Jael Miranda-Guzman, PhD](https://www.pathology.med.umich.edu/directory/jaelmi)
   
 </details>
 
 <details>
 <summary>Post-Docs</summary>
-  
-  [Jael Miranda-Guzman, PhD](https://www.pathology.med.umich.edu/directory/jaelmi)
+
+  [Saranyaraajan Varadarajan, PhD](https://www.pathology.med.umich.edu/directory/varadars)
   
   [Armando Montoya-Garcia, PhD](https://www.pathology.med.umich.edu/directory/marmando)
   
   [Sandhya Padmanabhan, PhD](https://www.pathology.med.umich.edu/directory/pasandhy)
-  
-  [Saranyaraajan Varadarajan, PhD](https://www.pathology.med.umich.edu/directory/varadars)
 
   [Natasha Golovchenko, PhD](https://www.pathology.med.umich.edu/directory/nbgol)
   
